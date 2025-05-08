@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iradaharoni" target="blank"><img src="https://img.shields.io/twitter/follow/iradaharoni?logo=twitter&style=for-the-badge" alt="iradaharoni" /></a> </p>
 
-- 🌱 I’m interested in **Go, Rust, Python, and LangGraph**
+- 🌱 I’m interested in **Low Level (Linux, Memory Exploitation) and High Level (Cloud, AI, Web Exploitation) security**
 
 - 👯 I’m looking to collaborate on **Cool ideas in the security space**
 
