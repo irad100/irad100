@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Cool ideas in the security space**
 
-- 👨‍💻 All of my public projects are available at [github.com/irad100](github.com/irad100)
+- 👨‍💻 All of my public projects are available at [github.com/irad100](https://github.com/irad100)
 
 - 📫 How to reach me **irad.aharoni@gmail.com**
 
-- 📄 Know about my experiences [irad.dev](irad.dev)
+- 📄 Know about my experiences [irad.dev](https://irad.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
