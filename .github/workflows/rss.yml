@@ -1,0 +1,16 @@
+name: Update README with RSS
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Blog post workflow
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://irad.dev/rss.xml"
