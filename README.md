@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Low Level (Linux, Memory Exploitation) and High Level (Cloud, AI, Web Exploitation) security**
 
-- 👯 I’m looking to collaborate on **cool ideas in the security space**
+- 👯 I’m looking to collaborate on **Cool ideas in the security space**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irad100](https://github.com/irad100)
 
@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/iradaharoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iradaharoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iradaharoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iradaharoni" height="30" width="40" /></a>
-<a href="/irad.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="irad.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://irad.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://irad.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irad100&show_icons=true&locale=en" alt="irad100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irad100" alt="irad100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irad100&" alt="irad100" /></p>
 
