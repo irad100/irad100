@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irad100&show_icons=true&locale=en" alt="irad100" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irad100" alt="irad100" /></p>
+<p><img align="center" src="https://irad-streak-stats.vercel.app/?user=irad100" alt="irad100" /></p>
 
