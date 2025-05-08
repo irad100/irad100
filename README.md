@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/iradaharoni" target="blank"><img src="https://img.shields.io/twitter/follow/iradaharoni?logo=twitter&style=for-the-badge" alt="iradaharoni" /></a> </p>
 
-- 🔭 I’m currently working on [ivisor](https://github.com/irad100/ivisor)
+- 🌱 I’m interested in **Go, Rust, Python, and LangGraph**
 
-- 🌱 I’m currently learning **Go, Rust, Virtualization, and Sandboxing**
-
-- 👯 I’m looking to collaborate on **cool ideas**
+- 👯 I’m looking to collaborate on **Cool ideas in the security space**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irad100](https://github.com/irad100)
 
 - 📫 How to reach me **irad.aharoni@gmail.com**
 
-- 📄 Know about my experiences [https://iradaharoni.wixsite.com/irad](https://iradaharoni.wixsite.com/irad)
+- 📄 Know about my experiences [https://irad.dev](https://irad.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
