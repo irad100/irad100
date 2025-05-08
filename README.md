@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irad100&show_icons=true&locale=en" alt="irad100" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=irad100" alt="irad100" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=irad100)](https://git.io/streak-stats)
