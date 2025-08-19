@@ -20,7 +20,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Agentic AI in Cybersecurity: Moving Toward Fully Autonomous Pentesting](https://irad.dev/blog/agentic-ai-for-cybersecurity/)
-- [Proactive Security](https://irad.dev/blog/proactive-security/)
+- [Proactive Security: We should take proactive security seriously](https://irad.dev/blog/proactive-security/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
